@@ -1,0 +1,9 @@
+Initialisation
+10 joueurs affichés sur la page dont 2 imposteurs
+Attribuer à chacun des noms
+
+JEU
+Lorsque l'utilisateur clique sur quelqu'un, le zigouiller
+	et afficher si cette personne était imposteur ou nom
+	
+Créer une Map ( htmlElement => objet joueur)
